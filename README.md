@@ -38,7 +38,7 @@ This project demonstrates how Python and Power BI can transform raw UPI transact
 ## 📸 Dashboard Screenshots
 
 ### 1. Overall Performance Analysis
-![Overall Performance Analysis](Overview%20Performance%20Analysis(1).png)
+![Overall Performance Analysis](Overview%20Performance%20Analysis.png)
 
 ### 2. Payment Failure Analysis
 ![Payment Failure Analysis](Payment%20Failure%20Analysis.png)
