@@ -57,9 +57,3 @@ This project demonstrates how Python and Power BI can transform raw UPI transact
 - [Cleaned Dataset](Dataset/upi_transactions_cleaned.csv)
 - [Python Data Cleaning Notebook](Python/UPI_Project.ipynb)
 
-## 📸 Dashboard Screenshots
-
-- [Overall Performance Analysis](Overview%20Performance%20Analysis.png)
-- [Payment Failure Analysis](Payment%20Failure%20Analysis.png)
-- [UPI Reliability & Performance](Upi%20Realiability%20And%20Performance.png)
-- [Trend & Performance Analysis](Trend%20And%20Performance%20Analysis.png)
