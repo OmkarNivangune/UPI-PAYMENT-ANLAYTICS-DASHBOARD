@@ -1,5 +1,4 @@
-# UPI-PAYMENT-ANLAYTICS-DASHBOARD
-# UPI Payment Analytics Dashboard 📊
+# UPI-PAYMENT-ANLAYTICS-DASHBOARD📊
 
 ## 📌 Project Overview
 An interactive Power BI dashboard developed to analyze UPI transactions, payment success and failure rates, transaction trends, response times, and payment reliability.
