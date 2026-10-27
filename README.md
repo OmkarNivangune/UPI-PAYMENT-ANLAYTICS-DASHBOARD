@@ -60,6 +60,5 @@ This project demonstrates how Python and Power BI can transform raw UPI transact
 
 ## 📊 Power BI Dashboard
 
-[⬇️ Download UPI Payment Analytics Dashboard](Upi%20Project.pbix)
-
+[⬇️ Download Power BI Dashboard](./Dashboard/Upi%20Project.pbix)
 Open the downloaded `.pbix` file using Microsoft Power BI Desktop to explore the dashboard.
