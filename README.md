@@ -33,3 +33,18 @@ Python | Pandas | Power BI | DAX | Power Query | Data Cleaning | Data Visualizat
 
 ## 📌 Conclusion
 This project demonstrates how Python and Power BI can transform raw UPI transaction data into meaningful insights to evaluate payment performance, identify failure patterns, and understand transaction reliability.
+
+
+## 📸 Dashboard Screenshots
+
+### 1. Overall Performance Analysis
+![Overall Performance Analysis](Overview%20Performance%20Analysis(1).png)
+
+### 2. Payment Failure Analysis
+![Payment Failure Analysis](Payment%20Failure%20Analysis.png)
+
+### 3. UPI Reliability & Performance
+![UPI Reliability and Performance](Upi%20Realiability%20And%20Performance.png)
+
+### 4. Trend & Performance Analysis
+![Trend and Performance Analysis](Trend%20And%20Performance%20Analysis.png)
