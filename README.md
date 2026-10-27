@@ -57,3 +57,9 @@ This project demonstrates how Python and Power BI can transform raw UPI transact
 - [Cleaned Dataset](Dataset/upi_transactions_cleaned.csv)
 - [Python Data Cleaning Notebook](Python/UPI_Project.ipynb)
 
+
+## 📊 Power BI Dashboard
+
+[⬇️ Download UPI Payment Analytics Dashboard](Upi%20Project.pbix)
+
+Open the downloaded `.pbix` file using Microsoft Power BI Desktop to explore the dashboard.
